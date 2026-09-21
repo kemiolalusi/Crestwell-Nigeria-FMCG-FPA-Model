@@ -172,18 +172,17 @@ These findings are based on the simulated Crestwell dataset and should not be in
 
 The project follows a simple analytical workflow:
 
-```text
-Transactional & Planning Data
-            ↓
-        SQL Server
-            ↓
-     Analytical Views
-            ↓
-       Power BI Model
-            ↓
- Financial & Commercial Analysis
-            ↓
-     Management Insights
+**Transactional & Planning Data**  
+↓  
+**SQL Server**  
+↓  
+**Analytical Views**  
+↓  
+**Power BI Model**  
+↓  
+**Financial & Commercial Analysis**  
+↓  
+**Management Insights**
 
 
 ## Project Deliverables
