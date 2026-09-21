@@ -208,14 +208,15 @@ The dashboard includes:
 - OPEX & Cost Management
 - Scenario Analysis
 - Field Definitions
-<img width="595" height="329" alt="image 8" src="https://github.com/user-attachments/assets/90430ede-c3a9-460e-8c71-7741ed92887b" />
-<img width="588" height="335" alt="image 7" src="https://github.com/user-attachments/assets/e24dd91e-c7e7-4146-848a-9f05dadd4b1e" />
-<img width="593" height="326" alt="image 6" src="https://github.com/user-attachments/assets/d791d263-6528-4336-8586-ffb9a5e08c6f" />
-<img width="596" height="333" alt="image 5" src="https://github.com/user-attachments/assets/4dbd837e-ec24-49eb-a2b1-f6b98c614e7c" />
-<img width="601" height="330" alt="image 4" src="https://github.com/user-attachments/assets/4fbee171-11b8-45dd-859a-20359e813635" />
-<img width="596" height="336" alt="image 3" src="https://github.com/user-attachments/assets/5cb24a5b-76d9-47a1-92d4-d6d445521da2" />
-<img width="600" height="332" alt="image 2" src="https://github.com/user-attachments/assets/ba1a1aa6-e3f9-42dd-b2dd-6ea6d474cbb7" />
-<img width="592" height="329" alt="image 1" src="https://github.com/user-attachments/assets/1415bae1-14a7-43d0-a085-63a71eb2b017" />
+<img width="592" height="329" alt="image 1" src="https://github.com/user-attachments/assets/993cd61f-7689-465f-a2b5-93eaa9d55d56" />
+<img width="600" height="332" alt="image 2" src="https://github.com/user-attachments/assets/5d688e68-48c9-4c41-8f58-80f97d510715" />
+<img width="596" height="336" alt="image 3" src="https://github.com/user-attachments/assets/294ad6ed-4e4b-4578-9cf1-7e361a1422c5" />
+<img width="601" height="330" alt="image 4" src="https://github.com/user-attachments/assets/6dd00dbb-a3ab-4317-8d82-c088482bb1c8" />
+<img width="596" height="333" alt="image 5" src="https://github.com/user-attachments/assets/40c51898-1955-4175-ac2f-e7132e72c6d3" />
+<img width="593" height="326" alt="image 6" src="https://github.com/user-attachments/assets/2bc16a92-b6c4-4935-8790-e3b61da8e1d9" />
+<img width="588" height="335" alt="image 7" src="https://github.com/user-attachments/assets/93d19c28-a2ce-4188-b8c0-3884f166ffff" />
+<img width="595" height="329" alt="image 8" src="https://github.com/user-attachments/assets/f2662d8b-56bf-449c-a290-276dc7d8a27a" />
+
 
 ## Data & Methodology
 
