@@ -1,2 +1,1 @@
-# Crestwell-Nigeria-FMCG-FPA-Model
-An FP&amp;A analytics and decision-support demo built to model a realistic multinational FMCG Company (Crestwell),  It covers performance, profitability, variance analysis, forecasting and scenario planning, using SQL and Power BI modelling and visualization across 500K+ transactions, 800 customers and 20 locations.
+An FP&A analytics and decision-support demo built to model a realistic multinational FMCG company (Crestwell). The project combines financial and commercial analysis with SQL and Power BI data modelling and visualization, covering performance, profitability, variance analysis, forecasting and scenario planning across 500K+ transactions, 800 customers and 20 locations.
